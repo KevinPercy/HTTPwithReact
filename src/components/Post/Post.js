@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 import './Post.css';
 
 const post = (props) => (
@@ -10,5 +11,6 @@ const post = (props) => (
         </div>
     </article>
 );
+
 
 export default post;
